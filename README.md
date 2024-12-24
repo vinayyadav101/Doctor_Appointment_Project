@@ -116,7 +116,7 @@ git clone https://github.com/vinayyadav101/Doctor_Appointment_Project.git
 ```
 2. change directory
 ```
-cd backen-end
+cd back-end
 ```
 3. install Node module
 ```
